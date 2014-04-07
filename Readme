@@ -1,0 +1,8 @@
+Task 1 - Screenshot.
+
+Required packets:
+0) xdotool
+1) sikuli
+
+Usage:
+Just run 'Run.sh' file, it will open browser and make screenshots/click buttons.
